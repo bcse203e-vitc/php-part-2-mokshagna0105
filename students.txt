@@ -1,0 +1,6 @@
+Anita,anita123@gmail.com,2000-06-15
+Rahul,rahul@@mail,1999-05-20
+Priya,priya.k@outlook.com,2002-09-10
+Ramesh,,2001-12-01
+John,john.doe@gmail.com,1998-03-25
+
